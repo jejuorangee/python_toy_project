@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-path = 'C:\\JANG\\python\\pythonProjectResource\\ice_age_last_finish_finally_real\\'
+path = '경로'
 file_name = 'earth_heating.csv'
 file_path = path + file_name
 
